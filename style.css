@@ -1,0 +1,48 @@
+body{
+    color: #526D82;
+}
+.logo{
+    width: 50px;
+    height: 25px;
+}
+.nav-bar{
+    background-color: #526D82;
+}
+#home {
+    background-color: #DDE6ED;
+}
+#contact{
+    background-color:#DDE6ED ;
+}
+.home-img{
+    max-width: 100%;
+    height: auto;
+}
+.slider{
+    width: 900px;
+    margin: 50px auto;
+}
+.img-car{
+    width: 900px;
+    height: 500px;
+    border-radius: 20px;
+}
+#features{
+    background-color: #9db2bf;
+}
+.tex-colr{
+    color: white;
+}
+.round{
+    border-radius: 15px;
+}
+footer{
+    background-color:#526D82;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.ho-img{
+    width: 450px;
+    height: 300px;
+}
